@@ -1,4 +1,4 @@
-![logo](https://github.com/bisen6850/bisen6850/blob/main/Red%20%26%20Black%20Geometric%20Gamer%20Youtube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Jay Bisen</h1>
 <h3 align="center">BTech IT student | Passionate about Web Development | Building real-world projects and UI clones</h3>
 
